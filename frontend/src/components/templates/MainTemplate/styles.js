@@ -9,7 +9,6 @@ export const Wrapper = styled(Div)`
 `
 export const ContentWrapper = styled(Div)`
   min-height: calc(100vh - 60px);
-  background-color: red;
 `
 
 export const FooterWrapper = styled(Div)`
