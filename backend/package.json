@@ -17,6 +17,7 @@
     "cors": "^2.8.5",
     "dotenv": "^14.2.0",
     "express": "^4.17.2",
+<<<<<<< HEAD
     "express-promise-router": "^4.1.1",
     "graphql": "^15.5.0",
     "graphql-tools": "^7.0.5",
@@ -32,5 +33,21 @@
     "eslint-plugin-import": "^2.23.4",
     "jest": "^27.0.4",
     "nodemon": "2.0.7"
+=======
+    "http-status": "^1.5.0",
+    "mongoose": "^6.1.7",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.2",
+    "@types/express": "^4.17.13",
+    "@types/http-status": "^1.1.2",
+    "@types/mongoose": "^5.11.97",
+    "@types/morgan": "^1.9.3",
+    "@types/node": "^17.0.10",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5"
+>>>>>>> parent of b29ee78... Revert "feat: added new initial files"
   }
 }
