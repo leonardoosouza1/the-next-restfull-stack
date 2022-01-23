@@ -1,3 +1,0 @@
-#!/bin/bash
-echo "Starting the server..."
-serve public -l tcp://0.0.0.0:80 -s

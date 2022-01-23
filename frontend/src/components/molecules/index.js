@@ -1,5 +1,0 @@
-export { default as CheckboxLabel } from './CheckboxLabel'
-export { default as IconButton } from './IconButton'
-export { default as SignInUPHeader } from './SignInUPHeader'
-export { default as Toggle } from './Toggle'
-export { default as Textfield } from './Textfield'
